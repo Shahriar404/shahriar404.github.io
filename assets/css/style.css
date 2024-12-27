@@ -167,6 +167,12 @@ p {
 .color-pinterest {
     color:#cb2027;
 }
+
+.color-scholar {
+    color: #4caf50; /* Example: Green color for Google Scholar */
+}
+
+
 /* ===========================================================
    BOOTSTRAP ELEMENTS CHANGES   
    ============================================================*/
